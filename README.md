@@ -3,13 +3,12 @@
 
 Study platform using *React* that connects teachers and students.
 
-# Table of Contents
+## Table of Contents
 1. [Features](#features)
 2. [Pages](#pages)
 4. [My Diary](#my-diary)
 
-
-### Features <a name="features"></a>
+## Features <a name="features"></a>
 * Responsive Layout for mobile;
 * Using `react-router-dom` to navigate between pages.
 
