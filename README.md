@@ -1,4 +1,7 @@
 # Proffy
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
+
 [(Next Level Week #2 by Rocketseat)](https://rocketseat.com.br/)
 
 Study platform using *React* that connects teachers and students.
