@@ -20,7 +20,7 @@ Study platform using *React* that connects teachers and students.
 * `SQLite` as database;
 * `Knex` to build SQL from JS;
 * `Express` framework to create the API responses and requests;
-* `Axios` facilitate the consumption of external APIs.
+* `Axios` to facilitate the consumption of external APIs.
 
 ## 🖥 Pages <a name="pages"></a>
 ### Landing Page
