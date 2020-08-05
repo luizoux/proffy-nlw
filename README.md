@@ -19,7 +19,8 @@ Study platform using *React* that connects teachers and students.
 * Using `react-router-dom` to navigate between pages;
 * `SQLite` as database;
 * `Knex` to build SQL from JS;
-* `Express` framework to create the API responses and requests.
+* `Express` framework to create the API responses and requests;
+* `Axios` facilitate the consumption of external APIs.
 
 ## 🖥 Pages <a name="pages"></a>
 ### Landing Page
@@ -28,6 +29,11 @@ Study platform using *React* that connects teachers and students.
 ### Teachers List Page
 ![alt text](readme-img-2.png)
 
+### Teacher Form 1
+![alt text](readme-img-3.png)
+
+### Teacher Form 2
+![alt text](readme-img-4.png)
 
 ## 👩‍💻 How to run <a name="run"></a>
 ### Web (front-end)
@@ -67,12 +73,16 @@ This project is under [MIT License](https://github.com/luizous/proffy-nlw/blob/m
 
 
 ## ✍️ My Diary <a name="my-diary"></a>
-#### 1st Class:
+#### 1st Class (August 3, 2020):
 > In this first class I learned a lot about CSS and that was where I had my first contact with React. I'm used to work with Angular and what bother me more about this framework > was the delay to run, I notice that this do not occur with React.
 >
 > Well, I can already say that I loved going deeper into the front-end! I'm excited for the next classes!
 
-#### 2nd Class:
+#### 2nd Class (August 4, 2020):
 > Fist time using node.js as back-end and I'm impressed. It is much easer than I expected and a WAY easer then using C# with .NET. 
 >
 > I liked the way the database migrations is done. I'm used to work with pure SQL but I think that using typescript is really cool!
+
+#### 3rd Class (August 5, 2020):
+> That was intense! The only thing that I don't like is that the "logical" part, like javascript and constants, stay together with the html. It is quit confusing programming like that for me because I'm used to have a html page and a component.ts page like in Angular.
+> I'm starting to really like CSS! Maybe my future is on front-end... We will see...
