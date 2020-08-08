@@ -2,17 +2,19 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite)
+![Expo](https://img.shields.io/badge/Expo-000020.svg?logo=expo)
 
-🚀 [(Next Level Week #2 by Rocketseat)](https://rocketseat.com.br/)
+🚀 [Next Level Week #2 by Rocketseat - OmniStack](https://rocketseat.com.br/)
 
-Study platform using *React* that connects teachers and students.
+Study platform using **React** that connects teachers and students.
 
 ## Table of Contents
 1. [Features](#features)
-2. [Pages](#pages)
-3. [How to run](#run)
-4. [Contribution or Issues](#contribution)
-5. [My Diary](#my-diary)
+2. [Web Pages](#pages)
+3. [Mobile](#mobile)
+4. [How to run](#run)
+5. [Contribution or Issues](#contribution)
+6. [My Diary](#my-diary)
 
 ## 📦 Features <a name="features"></a>
 * `Responsive` Layout for mobile;
@@ -20,20 +22,28 @@ Study platform using *React* that connects teachers and students.
 * `SQLite` as database;
 * `Knex` to build SQL from JS;
 * `Express` framework to create the API responses and requests;
-* `Axios` to facilitate the consumption of external APIs.
+* `Axios` to facilitate the consumption of external APIs;
+* Using `Expo` to create the React Native app.
 
-## 🖥 Pages <a name="pages"></a>
+## 🖥 Web Pages <a name="pages"></a>
 ### Landing Page
-![alt text](readme/readme-img-4.png)
+![Landing Page](./readme-img-4.png)
 
 ### Teachers List Page
-![alt text](readme/readme-img-2.png)
+![Teachers List Page](./readme-img-2.png)
 
 ### Teacher Form 1
-![alt text](readme/readme-img-3.png)
+![Teacher Form 1](./readme-img-3.png)
 
 ### Teacher Form 2
-![alt text](readme/readme-img-4.png)
+![Teacher Form 2](./readme-img-4.png)
+
+## 📱 Mobile <a name="mobile"></a>
+### Landing Page
+![Landing Page](./readme-img-5.png)
+
+### Give Classes Page
+![Give Classes Page](./readme-img-6.png)
 
 ## 👩‍💻 How to run <a name="run"></a>
 ### Web (front-end)
@@ -86,3 +96,10 @@ This project is under [MIT License](https://github.com/luizous/proffy-nlw/blob/m
 #### 3rd Class (August 5, 2020):
 > That was intense! The only thing that I don't like is that the "logical" part, like javascript and constants, stay together with the html. It is quit confusing programming like that for me because I'm used to have a html page and a component.ts page like in Angular.
 > I'm starting to really like CSS! Maybe my future is on front-end... We will see...
+
+#### 4th Class (August 8, 2020):
+> I ended up being late in class due to personal problems :(
+>
+> Well, I just loved doing the mobile part. I found the way the CSS is made quite different, it will take me a while to get the hang of doing the <View /> part among other react-native tags.
+>
+> I will have to train a lot and I already have some ideas for future projects! Yey! :D
