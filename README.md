@@ -27,23 +27,23 @@ Study platform using **React** that connects teachers and students.
 
 ## 🖥 Web Pages <a name="pages"></a>
 ### Landing Page
-![Landing Page](./readme-img-4.png)
+![Landing Page](../readme-img-4.png)
 
 ### Teachers List Page
-![Teachers List Page](./readme-img-2.png)
+![Teachers List Page](../readme-img-2.png)
 
 ### Teacher Form 1
-![Teacher Form 1](./readme-img-3.png)
+![Teacher Form 1](../readme-img-3.png)
 
 ### Teacher Form 2
-![Teacher Form 2](./readme-img-4.png)
+![Teacher Form 2](../readme-img-4.png)
 
 ## 📱 Mobile <a name="mobile"></a>
 ### Landing Page
-![Landing Page](./readme-img-5.png)
+![Landing Page](../readme-img-5.jpg)
 
 ### Give Classes Page
-![Give Classes Page](./readme-img-6.png)
+![Give Classes Page](../readme-img-6.jpg)
 
 ## 👩‍💻 How to run <a name="run"></a>
 ### Web (front-end)
