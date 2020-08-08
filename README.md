@@ -24,16 +24,16 @@ Study platform using *React* that connects teachers and students.
 
 ## 🖥 Pages <a name="pages"></a>
 ### Landing Page
-![alt text](readme-img-1.png)
+![alt text](readme/readme-img-4.png)
 
 ### Teachers List Page
-![alt text](readme-img-2.png)
+![alt text](readme/readme-img-2.png)
 
 ### Teacher Form 1
-![alt text](readme-img-3.png)
+![alt text](readme/readme-img-3.png)
 
 ### Teacher Form 2
-![alt text](readme-img-4.png)
+![alt text](readme/readme-img-4.png)
 
 ## 👩‍💻 How to run <a name="run"></a>
 ### Web (front-end)
