@@ -100,6 +100,6 @@ This project is under [MIT License](https://github.com/luizous/proffy-nlw/blob/m
 #### 4th Class (August 8, 2020):
 > I ended up being late in class due to personal problems :(
 >
-> Well, I just loved doing the mobile part. I found the way the CSS is made quite different, it will take me a while to get the hang of doing the <View /> part among other react-native tags.
+> Well, I just loved doing the mobile part. I found the way the CSS is made quite different, it will take me a while to get the hang of doing the `<View />` part among other react-native tags.
 >
 > I will have to train a lot and I already have some ideas for future projects! Yey! :D
