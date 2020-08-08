@@ -27,7 +27,7 @@ Study platform using **React** that connects teachers and students.
 
 ## 🖥 Web Pages <a name="pages"></a>
 ### Landing Page
-![Landing Page](readme-img-4.png)
+![Landing Page](readme-img-1.png=60%)
 
 ### Teachers List Page
 ![Teachers List Page](readme-img-2.png)
