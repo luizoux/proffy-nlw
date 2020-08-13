@@ -49,7 +49,7 @@ Study platform using **React** that connects teachers and students.
 ### Web (front-end)
 ``` 
 # Go to web folder
-$ proffy-nlw/web`
+$ proffy-nlw/web
 
 # Install dependencies
 $ yarn install
@@ -61,7 +61,19 @@ $ yarn start
 ### API (back-end)
 ``` 
 # Go to server folder
-$ proffy-nlw/server`
+$ proffy-nlw/server
+
+# Install dependencies
+$ yarn install
+
+# Run Aplication
+$ yarn start
+```
+
+### Mobile
+``` 
+# Go to mobile folder
+$ proffy-nlw/mobile
 
 # Install dependencies
 $ yarn install
@@ -103,3 +115,7 @@ This project is under [MIT License](https://github.com/luizous/proffy-nlw/blob/m
 > Well, I just loved doing the mobile part. I found the way the CSS is made quite different, it will take me a while to get the hang of doing the `<View />` part among other react-native tags.
 >
 > I will have to train a lot and I already have some ideas for future projects! Yey! :D
+
+#### 5th Class (August 13, 2020):
+> Again I waws veeery late for this class :(
+> I intend to continue with the project and learn more about this stack. I'm excited.
