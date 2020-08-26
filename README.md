@@ -23,7 +23,8 @@ Study platform using **React** that connects teachers and students.
 * `Knex` to build SQL from JS;
 * `Express` framework to create the API responses and requests;
 * `Axios` to facilitate the consumption of external APIs;
-* Using `Expo` to create the React Native app.
+* Using `Expo` to create the React Native app;
+* [`React Navigation`](https://reactnavigation.org/).
 
 ## 🖥 Web Pages <a name="pages"></a>
 ### Landing Page
