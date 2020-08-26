@@ -118,5 +118,5 @@ This project is under [MIT License](https://github.com/luizous/proffy-nlw/blob/m
 > I will have to train a lot and I already have some ideas for future projects! Yey! :D
 
 #### 5th Class (August 13, 2020):
-> Again I waws veeery late for this class :(
-> I intend to continue with the project and learn more about this stack. I'm excited.
+> Again I was veeery late for this class :(
+> I intend to continue with the project and learn more about this stack.
