@@ -14,7 +14,8 @@ Study platform using **React** that connects teachers and students.
 3. [Mobile](#mobile)
 4. [How to run](#run)
 5. [Contribution or Issues](#contribution)
-6. [My Diary](#my-diary)
+6. [License and Credits](#credits)
+7. [My Diary](#my-diary)
 
 ## 📦 Features <a name="features"></a>
 * `Responsive` Layout for mobile;
@@ -87,7 +88,7 @@ $ yarn start
 Do you found some bugs or want to improve the project? Feel free to open a issue or contact me! I will happily review your pull request. 🥰
 
 
-## 📃 License
+## 📃 License <a name="credits"></a>
 Developed with 💙 by [Luiza R. Marinho](https://github.com/luizous).
 
 This project is under [MIT License](https://github.com/luizous/proffy-nlw/blob/master/LICENSE) and is made for [Rocketseat's](https://rocketseat.com.br/) classes.
