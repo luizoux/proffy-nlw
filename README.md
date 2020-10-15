@@ -1,5 +1,5 @@
 # Proffy
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite)
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?logo=expo)
@@ -13,9 +13,10 @@ Study platform using **React** that connects teachers and students.
 2. [Web Pages](#pages)
 3. [Mobile](#mobile)
 4. [How to run](#run)
-5. [Contribution or Issues](#contribution)
-6. [License and Credits](#credits)
-7. [My Diary](#my-diary)
+5. [Contribution](#contribution)
+6. [Issues](#issues)
+7. [License and Credits](#credits)
+8. [My Diary](#my-diary)
 
 ## 📦 Features <a name="features"></a>
 * `Responsive` Layout for mobile;
@@ -84,11 +85,29 @@ $ yarn install
 $ yarn start
 ```
 
-## 🦾 Contribution or 🐞 Issues <a name="contribution"></a>
+## 🤝 Contribution  <a name="contribution"></a>
+These are the steps you can take to contribute to the project:
+
+1. Fork the repository 🍴;
+
+2. Create your feature branch (`git checkout -b my-new-feature`).
+
+3. Make sure that you test everything and has no bugs;
+
+4. Commit your changes (`git commit -am 'Add some feature'`);
+
+5. Push your changes to the branch (`git push origin my-new-feature`);
+
+6. Create a new *Pull Request*! ✨
+
+And then I'll review soon as possible!
+
+
+## 🐞 Issues <a name="issues"></a>
 Do you found some bugs or want to improve the project? Feel free to open a issue or contact me! I will happily review your pull request. 🥰
 
 
-## 📃 License <a name="credits"></a>
+## 📃 License and Credits <a name="credits"></a>
 Developed with 💙 by [Luiza R. Marinho](https://github.com/luizous).
 
 This project is under [MIT License](https://github.com/luizous/proffy-nlw/blob/master/LICENSE) and is made for [Rocketseat's](https://rocketseat.com.br/) classes.
